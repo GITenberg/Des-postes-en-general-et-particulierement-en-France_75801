@@ -1,0 +1,29 @@
+_repo: Des-postes-en-general-et-particulierement-en-France_75801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernède, Charles
+    gutenberg_agent_id: '58153'
+    url: http://www.gutenberg.org/2009/agents/58153
+description: ''
+gutenberg_issued: '2025-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75801'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k94474f
+pgterms:marc905: 20060311153851bernede
+pgterms:marc906: '1826'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Adrian Mastronardi, The Philatelic Digital Library
+  Project and the Online Distributed Proofreading Team at https://www.pgdp.net (This
+  file was produced from images generously made available by the Bibliothèque nationale
+  de France (BnF/Gallica))
+publication_note: '  $aParis :$bLibrairie de Raynal, $c1826.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Des postes en général, et particulièrement en France
+url: http://www.gutenberg.org/ebooks/75801
